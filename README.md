@@ -1,2 +1,3 @@
-## JSの練習
-##### シンプルなカレンダーアプリです。
+### シンプルなカレンダーアプリです。
+
+https://pythagoras-yamamoto.github.io/calendar/
